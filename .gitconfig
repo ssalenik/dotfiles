@@ -1,8 +1,8 @@
 [apply]
 	whitespace = fix
 [user]
-	name = Severin Smith
-	email = info@smallbutdigital.com
+	name = Stepan Salenikovich 
+	email = stepan.salenikovich@gmail.com
 [color]
 	ui = auto
 	diff = auto
@@ -14,7 +14,7 @@
 	st = status
 	lg = log --oneline --decorate
 [github]
-	user = sparks
+	user = ssalenik
 [gist]
 	browse = yes
 	private = no
